@@ -1,6 +1,6 @@
 package com.example.paginationbackend.config;
 
-import com.example.paginationbackend.Entity.Person;
+import com.example.paginationbackend.entity.Person;
 import com.example.paginationbackend.repository.PersonRepository;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

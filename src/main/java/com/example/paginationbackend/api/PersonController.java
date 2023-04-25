@@ -1,6 +1,6 @@
 package com.example.paginationbackend.api;
 
-import com.example.paginationbackend.Entity.Person;
+import com.example.paginationbackend.entity.Person;
 import com.example.paginationbackend.repository.PersonRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

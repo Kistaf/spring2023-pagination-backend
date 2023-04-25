@@ -1,4 +1,4 @@
-package com.example.paginationbackend.Entity;
+package com.example.paginationbackend.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
